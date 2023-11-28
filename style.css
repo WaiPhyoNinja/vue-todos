@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+
+/* 
+
+html {
+  @apply font-sans;
+}
+
+body {
+  @apply bg-gray-100 font-light m-0 p-5;
+}
+
+.task-container {
+  @apply max-w-1200 mx-auto mt-20;
+}
+
+.task-list {
+  @apply flex flex-wrap;
+}
+
+.task-column {
+  @apply flex-1 m-2 relative overflow-hidden bg-white rounded shadow-md;
+}
+
+.task-input input {
+  @apply border border-t-0 bg-white rounded-t-2xl shadow-md w-full p-4 text-base font-light outline-none transition duration-300 focus:shadow-md focus:outline-none;
+}
+
+.task-column-header h2 {
+  @apply text-lg font-semibold uppercase;
+}
+
+.task-inner-list {
+  @apply task-inner-list;
+}
+
+.task-item {
+  @apply p-4 mb-4 bg-white rounded shadow-md border;
+}
+
+.task-item h1 {
+  @apply text-lg font-semibold;
+}
+
+.task-time {
+  @apply text-sm;
+}
+
+.assigned li {
+  @apply inline-block mr-2;
+}
+
+.assigned img {
+  @apply max-w-20px rounded-full;
+}
+
+.track-task {
+  @apply bg-transparent p-0 m-0 border-none outline-none hover:opacity-60;
+} */
